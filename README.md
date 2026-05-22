@@ -39,6 +39,6 @@ python chatbot.py
 ---
 
 ## 👨‍💻 Author
-**Raikhola Ankita**  
+**Ankita Raikhola**  
 CodeAlpha Python Programming Internship  
 GitHub: @raikholaankita
