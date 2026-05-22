@@ -15,6 +15,7 @@ A classic word-guessing game built with Python for the CodeAlpha Internship.
 ## ▶️ How to Run
 ```bash
 python hangman.py
+```
 ### 2. Basic Chatbot - CodeAlpha Task 4
 A simple rule-based chatbot built with Python for the CodeAlpha Internship.
 ## 🤖 Features
