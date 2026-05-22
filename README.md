@@ -31,3 +31,9 @@ A simple rule-based chatbot built with Python for the CodeAlpha Internship.
 ## ▶️ How to Run
 ```bash
 python chatbot.py
+```
+---
+## 👨‍💻 Author
+**Raikhola Ankita**  
+CodeAlpha Python Programming Internship  
+GitHub: @raikholaankita
